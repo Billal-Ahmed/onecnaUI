@@ -1,7 +1,6 @@
 <h1>
-  ONECNA.COM
+  # ONECNA.COM Frontend Template
 </h1>
-# ONECNA.COM
 
 Welcome to ONECNA.COM, the Crime and Central News Agency located in Pakistan, Karachi.
 
