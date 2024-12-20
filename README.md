@@ -47,24 +47,22 @@ onecnaUI/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd onecna/onecnaUI
+   cd onecnaUI
    ```
 3. Open `index.html` in a web browser:
    ```bash
    firefox index.html # Or your preferred browser
+   or manually open it
    ```
 
 ## Future Enhancements
 
 - Add support for additional languages.
-
-
+- Maybe a betterr JS liberary
 
 
 
 ## Contributing
-
-We welcome contributions! If you'd like to contribute:
 
 1. Fork the repository.
 2. Create a feature branch:
