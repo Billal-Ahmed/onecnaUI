@@ -27,9 +27,9 @@ onecnaUI/
 ### Explanation of Directories
 
 - **arabic/**: Contains assets specific to the Arabic version of the website, including CSS, JavaScript, and the main `index.html` file.
-- **english/**: Contains assets specific to the English version of the website, including CSS and JavaScript files.
-- **urdu/**: Contains assets specific to the Urdu version of the website, including CSS, JavaScript, and the main `index.html` file.
-- **assets/**: Contains shared assets like images.
+- **english**: Contains assets specific to the English version of the website, including CSS and JavaScript files. But the default page is already in english.
+- **urdu**: Contains assets specific to the Urdu version of the website, including CSS, JavaScript, and the main `index.html` file.
+- **assets**: Contains shared assets like images.
 - **index.html**: The main landing page of the website.
 
 ## Features
