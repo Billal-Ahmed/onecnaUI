@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* Remove scroll bars but allow scrolling */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  /* Hide scrollbar in Chrome */
+::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar track in Chrome */
+::-webkit-scrollbar-track {
+    background: transparent;
+  }
+.advertisment{
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+  

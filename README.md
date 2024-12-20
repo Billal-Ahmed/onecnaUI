@@ -90,6 +90,6 @@ Currently no lincense
 For any inquiries or issues, please contact the project maintainer:
 
 - **Name**: Bilal Ahmed
-- **Email**: ba4794044\@gmail.com
+- **Email**: ba4794044@gmail.com
 - **Location**: Skardu, Pakistan
 
