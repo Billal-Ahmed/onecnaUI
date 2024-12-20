@@ -27,9 +27,9 @@ onecnaUI/
 ### Explanation of Directories
 
 - **arabic/**: Contains assets specific to the Arabic version of the website, including CSS, JavaScript, and the main `index.html` file.
-- **english/**: Contains assets specific to the English version of the website, including CSS and JavaScript files.
-- **urdu/**: Contains assets specific to the Urdu version of the website, including CSS, JavaScript, and the main `index.html` file.
-- **assets/**: Contains shared assets like images.
+- **english**: Contains assets specific to the English version of the website, including CSS and JavaScript files. But the default page is already in english.
+- **urdu**: Contains assets specific to the Urdu version of the website, including CSS, JavaScript, and the main `index.html` file.
+- **assets**: Contains shared assets like images.
 - **index.html**: The main landing page of the website.
 
 ## Features
@@ -47,24 +47,22 @@ onecnaUI/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd onecna/onecnaUI
+   cd onecnaUI
    ```
 3. Open `index.html` in a web browser:
    ```bash
    firefox index.html # Or your preferred browser
+   or manually open it
    ```
 
 ## Future Enhancements
 
 - Add support for additional languages.
-
-
+- Maybe a betterr JS liberary
 
 
 
 ## Contributing
-
-We welcome contributions! If you'd like to contribute:
 
 1. Fork the repository.
 2. Create a feature branch:
